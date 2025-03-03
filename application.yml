@@ -5,4 +5,4 @@ logging:
     org.springframework.security: DEBUG
 my:
   service:
-    name: hellofgthydfg
+    name: hellofgthydfgsdfdsfdsfdsfds
